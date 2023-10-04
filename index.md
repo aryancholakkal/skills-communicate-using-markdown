@@ -13,3 +13,10 @@ Added Data
 
 ![image of K P Rahul](https://github.com/aryancholakkal/skills-communicate-using-markdown/blob/main/KP.jpeg)
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/Aryan-C/.git/
+```
+``` javascript
+var myVar = "God of Kerala!";
+```
