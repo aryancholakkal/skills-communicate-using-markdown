@@ -20,3 +20,6 @@ Initialized empty Git repository in /Users/skills/Projects/Aryan-C/.git/
 ``` javascript
 var myVar = "God of Kerala!";
 ```
+- [x] Played for Kerala
+- [x] Played for India
+- [ ] Played for FC Barcelona
